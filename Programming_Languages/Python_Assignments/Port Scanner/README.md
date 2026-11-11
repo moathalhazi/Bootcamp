@@ -158,7 +158,3 @@ This tool is developed for educational purposes and authorized network security 
 ## 👨‍💻 Author
 
 **Eng. Moath Al-Hazi**
-
-Cybersecurity Student | Network Security Enthusiast
-
-GitHub: [@moathalhazi](https://github.com/moathalhazi)
