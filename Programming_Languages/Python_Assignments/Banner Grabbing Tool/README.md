@@ -79,14 +79,14 @@ Scanning port 8080...
 
 Scan Completed!
 
-╭──────────────────────────────────────── SCAN INFORMATION ────────────────────────────────────╮
-│ Target: 172.100.100.116                                                                      |
-│ Scan Type: TCP Banner Grabbing                                                               |
-│ Scan Date: 2026-11-12 02:19:20.401479                                                        |
-│ Duration: 22.20 seconds                                                                      |
-│ Open Ports: 2/8                                                                              |
-│ Identified Services: 0                                                                       |
-╰──────────────────────────────────────────────────────────────────────────────────────────────╯ 
+╭──────────────────────────────── SCAN INFORMATION ──────────────────────────╮
+│ Target: 172.100.100.116                                                    |
+│ Scan Type: TCP Banner Grabbing                                             |
+│ Scan Date: 2026-11-12 02:19:20.401479                                      |
+│ Duration: 22.20 seconds                                                    |
+│ Open Ports: 2/8                                                            |
+│ Identified Services: 0                                                     |
+╰────────────────────────────────────────────────────────────────────────────╯ 
      Discovered Services  
 ╭──────┬─────────────┬───────────────┬───────────╮
 │ PORT │   SERVICE   │ VERSION       │  STATUS   │
