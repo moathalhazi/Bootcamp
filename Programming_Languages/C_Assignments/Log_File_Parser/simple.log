@@ -1,0 +1,10 @@
+[INFO] User admin logged in successfully
+[ERROR] Login FAILED for user root
+[INFO] Server started successfully
+[WARNING] Multiple FAILED login attempts
+[INFO] HTTP request received
+[ERROR] HTTP 404 Not Found
+[INFO] Database connection established
+[ERROR] Database connection FAILED
+[INFO] User logged out
+[WARNING] Unauthorized access attempt

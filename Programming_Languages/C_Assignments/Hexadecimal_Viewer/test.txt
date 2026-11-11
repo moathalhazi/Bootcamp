@@ -1,0 +1,1 @@
+Hexadecimal Viewer A command-line tool developed using C to read binary files and display their contents in Hexadecimal and ASCII formats. The program reads data in groups of 16 bytes, helping user.
