@@ -38,7 +38,7 @@ The tool uses the **Rich** library to provide a professional and colorful termin
 ## 📁 Project Structure
 
 ```text
-Automated Log Analyzer/
+Automated-Log-Analyzer/
 │
 ├── log_analyzer.py
 ├── access.log
@@ -53,7 +53,7 @@ Automated Log Analyzer/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/moathalhazi/Bootcamp/tree/main/Programming_Languages/Python_Assignments/Automated%20Log%20Analyzer
+git clone https://github.com/moathalhazi/Bootcamp/tree/main/Programming_Languages/Python_Assignments/Automated-Log-Analyzer
 ```
 
 ### 2. Navigate to the Project Directory
