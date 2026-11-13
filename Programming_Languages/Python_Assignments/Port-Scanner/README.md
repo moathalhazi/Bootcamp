@@ -33,7 +33,7 @@ The tool provides a professional terminal interface using the **Rich** library, 
 ## 📁 Project Structure
 
 ```text
-port_scanner/
+Port-Scanner/
 │
 ├── port_scanner.py
 ├── README.md
@@ -43,7 +43,7 @@ port_scanner/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/moathalhazi/Bootcamp/Programming_Languages/Python_Assignments/port_scanner
+git clone https://github.com/moathalhazi/Bootcamp/Programming_Languages/Python_Assignments/Port-Scanner
 ```
 2. Navigate to the project directory
 ```bash
