@@ -43,7 +43,7 @@ File-Integrity-Monitoring/
 **1. Clone the repository**
 
 ```bash
-git clone 
+git clone https://github.com/moathalhazi/Bootcamp/tree/main/Programming_Languages/Python_Assignments/File-Integrity-Monitoring
 ```
 
 **2. Navigate to the project directory**
