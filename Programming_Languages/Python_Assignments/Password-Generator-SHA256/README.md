@@ -55,7 +55,7 @@ Password-Generator-SHA256/
 ### 1. Clone the Repository
 
 ```bash
-git clone 
+git clone https://github.com/moathalhazi/Bootcamp/tree/main/Programming_Languages/Python_Assignments/Password-Generator-SHA256
 ```
 
 ### 2. Navigate to the Project Directory
