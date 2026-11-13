@@ -149,8 +149,6 @@ This project demonstrates practical usage of:
 
 ### Analysis Summary
 ![Analysis Summary](screenshots/output.png)
-
-### Security Alerts
 ![Security Alerts](screenshots/result_log.png)
 
 
