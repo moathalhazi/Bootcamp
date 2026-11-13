@@ -122,6 +122,6 @@ The objective of this project is to understand how cryptographic hashing can be 
 
 ---
 
-**Developed as part of the Cybersecurity Bootcamp Assignments.**
+## 👨‍💻 Author
 
-**Author:** Eng. Moath Al-Hazi
+**Eng. Moath Al-Hazi**
