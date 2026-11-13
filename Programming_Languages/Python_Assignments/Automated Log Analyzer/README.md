@@ -53,7 +53,7 @@ Automated Log Analyzer/
 ### 1. Clone the Repository
 
 ```bash
-git clone
+git clone https://github.com/moathalhazi/Bootcamp/tree/main/Programming_Languages/Python_Assignments/Automated%20Log%20Analyzer
 ```
 
 ### 2. Navigate to the Project Directory
