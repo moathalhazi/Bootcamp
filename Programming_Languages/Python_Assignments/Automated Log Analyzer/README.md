@@ -160,4 +160,4 @@ It identifies suspicious patterns in log files but does not confirm that an actu
 
 ## 👨‍💻 Author
 
-**Moath Al-Hazi**
+**Eng. Moath Al-Hazi**
