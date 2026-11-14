@@ -53,7 +53,7 @@ SQLi-Defense/
 ### 1. Clone the Repository
 
 ```bash
-git clone
+git clone https://github.com/moathalhazi/Bootcamp/tree/main/Programming_Languages/PHP_Assignments/SQLi-Defense
 ```
 
 ### 2. Move the Project
