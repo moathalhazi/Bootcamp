@@ -1,0 +1,136 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background: #101827;
+    color: #e5e7eb;
+    padding: 30px 15px;
+}
+
+.container {
+    max-width: 850px;
+    margin: auto;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+header h1 {
+    color: #38bdf8;
+    margin-bottom: 10px;
+}
+
+header p {
+    color: #94a3b8;
+}
+
+.panel,
+.results,
+.information {
+    background: #1e293b;
+    padding: 25px;
+    border-radius: 12px;
+    margin-bottom: 20px;
+}
+
+h2 {
+    margin-bottom: 20px;
+    color: #38bdf8;
+}
+
+label {
+    display: block;
+    margin: 15px 0 8px;
+}
+
+input,
+select {
+    width: 100%;
+    padding: 12px;
+    background: #0f172a;
+    border: 1px solid #475569;
+    border-radius: 6px;
+    color: white;
+}
+
+button {
+    width: 100%;
+    margin-top: 20px;
+    padding: 13px;
+    background: #0284c7;
+    border: none;
+    border-radius: 6px;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #0369a1;
+}
+
+.success,
+.warning,
+.error,
+.safe,
+.danger {
+    padding: 15px;
+    border-radius: 8px;
+    margin: 15px 0;
+}
+
+.success,
+.safe {
+    background: #064e3b;
+    border: 1px solid #10b981;
+}
+
+.warning {
+    background: #78350f;
+}
+
+.error,
+.danger {
+    background: #7f1d1d;
+    border: 1px solid #ef4444;
+}
+
+.danger h3,
+.safe h3 {
+    margin-bottom: 10px;
+}
+
+.table-wrapper {
+    overflow-x: auto;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 15px;
+}
+
+th,
+td {
+    padding: 12px;
+    text-align: left;
+    border-bottom: 1px solid #475569;
+}
+
+th {
+    background: #334155;
+    color: #38bdf8;
+}
+
+footer {
+    text-align: center;
+    color: #94a3b8;
+    margin-top: 30px;
+}
